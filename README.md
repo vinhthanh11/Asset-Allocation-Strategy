@@ -1,4 +1,4 @@
-### Asset Allocation Strategy: Portfolio Performance
+## Asset Allocation Strategy: Portfolio Performance
 This Jupyter notebook provides an analysis framework for asset allocation strategy and portfolio performance evaluation, including efficient frontier estimation. The analysis is performed using historical asset prices fetched from Yahoo Finance, covering various financial metrics and optimization techniques.
 
 ### Key Functions and Analysis Steps
